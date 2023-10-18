@@ -8,7 +8,7 @@ I am a graphic designer with a passion for UI/UX design and aspiring to become a
 - 🌱 Currently learning front-end development
 - 🔭 Exploring the intersection of design and code
 - 💡 Constantly seeking opportunities to improve my skills and contribute to exciting projects
-- 
+  
 ## Skills
 
 - 🎨 Graphic Design
@@ -20,7 +20,7 @@ I am a graphic designer with a passion for UI/UX design and aspiring to become a
   ## Get In Touch
 
 - 📧 Email: monadualbait@gmail.com
-- 🔗 LinkedIn: linkedin.com/in/monadualbait
+- 🔗 LinkedIn: <a href="linkedin.com/in/monadualbait">Linkedin</a>
 <!--
 **monadualbait/monadualbait** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
