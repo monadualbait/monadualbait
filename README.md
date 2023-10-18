@@ -19,7 +19,7 @@ I am a graphic designer with a passion for UI/UX design and aspiring to become a
   ## Get In Touch
 
 - 📧 Email: monadualbait@gmail.com
-- 🔗 LinkedIn:  [linkedin.com/in/monadualbait](linkedin-page)
+- 🔗 LinkedIn:  [linkedin-page](linkedin.com/in/monadualbait)
 <!--
 **monadualbait/monadualbait** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
