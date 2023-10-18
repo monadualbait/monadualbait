@@ -11,8 +11,7 @@ I am a graphic designer with a passion for UI/UX design and aspiring to become a
   
 ## Skills
 
-- 🎨 Graphic Design
-- 🖌️ UI/UX Design
+- 🎨 Graphic Design & UI/UX Design
 - 💻 HTML, CSS, JavaScript 
 - 🎯 Figma, XD, Photoshop, Illustrator, After Effects
 - ⚡ Fun fact: I love languages (not just programming ones 😄) I am currently learning Korean!
@@ -20,7 +19,7 @@ I am a graphic designer with a passion for UI/UX design and aspiring to become a
   ## Get In Touch
 
 - 📧 Email: monadualbait@gmail.com
-- 🔗 LinkedIn: <a href="linkedin.com/in/monadualbait">My Linkedin</a>
+- 🔗 LinkedIn:  [linkedin.com/in/monadualbait](linkedin-page)
 <!--
 **monadualbait/monadualbait** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
