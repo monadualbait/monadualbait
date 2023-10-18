@@ -4,7 +4,7 @@ I am a graphic designer with a passion for UI/UX design and aspiring to become a
 
 ## About Me
 
-- 💼 Graphic Designer specializing in UI/UX design
+- 💼 Graphic Designer and UI/UX Enthusiast
 - 🌱 Currently learning front-end development
 - 🔭 Exploring the intersection of design and code
 - 💡 Constantly seeking opportunities to improve my skills and contribute to exciting projects
@@ -15,7 +15,7 @@ I am a graphic designer with a passion for UI/UX design and aspiring to become a
 - 🖌️ UI/UX Design
 - 💻 HTML, CSS, JavaScript 
 - 🎯 Figma, XD, Photoshop, Illustrator, After Effects
-- ⚡ Fun fact: I love languages (not just programming ones! 😄) I am currently learning Korean!
+- ⚡ Fun fact: I love languages (not just programming ones 😄) I am currently learning Korean!
 
   ## Get In Touch
 
